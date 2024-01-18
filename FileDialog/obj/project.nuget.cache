@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xHzzaN1dC512MUz+WFJJoZFRKEv0EJeBEh3r0bBbKiu6SkdYX4yFdaVIPuOf8MUHcXpdaAtyEkmhTEXKis+ZMw==",
+  "dgSpecHash": "7JrJaU0tpcrK+KRureV1weh5MhCzQP8MCJ3C15V+qWW44KQdvD1QAUGTf6zWz2qMJxqTavyd/qERbvEeeoXp+w==",
   "success": true,
   "projectFilePath": "E:\\WPF\\FileDialog\\FileDialog\\FileDialog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thain\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\thain\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
     "C:\\Users\\thain\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
+    "C:\\Users\\thain\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\thain\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
     "C:\\Users\\thain\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\thain\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

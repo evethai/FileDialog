@@ -10,6 +10,7 @@
         "dependencies": {
           "AForge.Video": "2.2.5",
           "AForge.Video.DirectShow": "2.2.5",
+          "CsvHelper": "30.0.1",
           "FirebaseStorage.net": "1.0.3",
           "System.Drawing.Common": "8.0.1"
         },
@@ -44,6 +45,14 @@
           "lib/AForge.Video.DirectShow.dll": {
             "assemblyVersion": "2.2.5.0",
             "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "CsvHelper/30.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "30.0.0.0",
+            "fileVersion": "30.0.1.0"
           }
         }
       },
@@ -857,6 +866,13 @@
       "sha512": "sha512-pEch6felU/RGAbl0A7yjaQjsGxwiRFU9R+qBqR92wQo++XhzPLeQaZHnAPIBYaG7MfoqtjgCDkK4z3Tra4VQ3w==",
       "path": "aforge.video.directshow/2.2.5",
       "hashPath": "aforge.video.directshow.2.2.5.nupkg.sha512"
+    },
+    "CsvHelper/30.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "path": "csvhelper/30.0.1",
+      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
     },
     "FirebaseStorage.net/1.0.3": {
       "type": "package",

@@ -32,3 +32,7 @@ E:\WPF\FileDialog\FileDialog\bin\Debug\net6.0-windows\Firebase.Storage.dll
 E:\WPF\FileDialog\FileDialog\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 E:\WPF\FileDialog\FileDialog\obj\Debug\net6.0-windows\Image.g.cs
 E:\WPF\FileDialog\FileDialog\obj\Debug\net6.0-windows\Image.baml
+E:\WPF\FileDialog\FileDialog\obj\Debug\net6.0-windows\ReadFileExcel.g.cs
+E:\WPF\FileDialog\FileDialog\obj\Debug\net6.0-windows\ReadFileExcel.baml
+E:\WPF\FileDialog\FileDialog\obj\Debug\net6.0-windows\FileDialog.sourcelink.json
+E:\WPF\FileDialog\FileDialog\bin\Debug\net6.0-windows\CsvHelper.dll
